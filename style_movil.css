@@ -23,7 +23,7 @@
   left: 25px;
   width: 340px;
   height: 297px;
-  background-color: var(--gris-6);
+  background-color:#F6F7F9;
   border-radius: 15px;
 }
 
@@ -52,7 +52,7 @@
   align-items: center;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
-  color: var(--azuloscuro-3);
+  color:#3D76C1;
   font-size: 12px;
   letter-spacing: 0;
   line-height: 20px;
@@ -68,7 +68,7 @@
   background-color: #ffffff;
   border-radius: 8px;
   border: 2px solid;
-  border-color: var(--azul-1);
+  border-color:#3D76C1;
 }
 
 .INICIO-DE-SESION .rectangle-3 {
@@ -80,7 +80,7 @@
   background-color: #ffffff;
   border-radius: 8px;
   border: 2px solid;
-  border-color: var(--azul-1);
+  border-color:#3D76C1;
 }
 
 .INICIO-DE-SESION .tabler-eye {
@@ -191,7 +191,7 @@
   align-items: center;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
-  color: var(--grisoscuro-5);
+  color:dimgray;
   font-size: 14px;
   letter-spacing: 0;
   line-height: 20px;
@@ -207,7 +207,7 @@
   align-items: center;
   font-family: "Inter-Bold", Helvetica;
   font-weight: 700;
-  color: var(--grisoscuro-5);
+  color:grey;
   font-size: 14px;
   letter-spacing: 0;
   line-height: 20px;
